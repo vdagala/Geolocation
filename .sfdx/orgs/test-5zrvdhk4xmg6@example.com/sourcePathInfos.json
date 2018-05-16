@@ -1,0 +1,218 @@
+[
+    [
+        "/Users/vdagala/geolocation/force-app",
+        {
+            "state": "n",
+            "sourcePath": "/Users/vdagala/geolocation/force-app",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 96,
+            "modifiedTime": 1526470259079,
+            "changeTime": 1526470259079,
+            "contentHash": "b28b7af69320201d1cf206ebf28373980add1451",
+            "isWorkspace": false,
+            "isArtifactRoot": true
+        }
+    ],
+    [
+        "/Users/vdagala/geolocation/force-app/main",
+        {
+            "state": "n",
+            "sourcePath": "/Users/vdagala/geolocation/force-app/main",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 96,
+            "modifiedTime": 1526470259079,
+            "changeTime": 1526470259079,
+            "contentHash": "7505d64a54e061b7acd54ccd58b49dc43500b635",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/vdagala/geolocation/force-app/main/default",
+        {
+            "state": "u",
+            "sourcePath": "/Users/vdagala/geolocation/force-app/main/default",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 192,
+            "modifiedTime": 1526470749246,
+            "changeTime": 1526470749246,
+            "contentHash": "df722e829b7a6a7630651123b390ed6a8e0a809a"
+        }
+    ],
+    [
+        "/Users/vdagala/geolocation/force-app/main/default/aura",
+        {
+            "state": "n",
+            "sourcePath": "/Users/vdagala/geolocation/force-app/main/default/aura",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 64,
+            "modifiedTime": 1526470259079,
+            "changeTime": 1526470259079,
+            "contentHash": "da39a3ee5e6b4b0d3255bfef95601890afd80709",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/vdagala/geolocation",
+        {
+            "state": "n",
+            "sourcePath": "/Users/vdagala/geolocation",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 256,
+            "modifiedTime": 1526470418109,
+            "changeTime": 1526470418109,
+            "contentHash": "07da07834d8f50a1018cf646c911906296572a7c",
+            "isWorkspace": true,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/vdagala/geolocation/force-app/main/default/objects/Account/fields/Geolocation__c.field-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "/Users/vdagala/geolocation/force-app/main/default/objects/Account/fields/Geolocation__c.field-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 406,
+            "modifiedTime": 1526470749211,
+            "changeTime": 1526470749211,
+            "contentHash": "53b4d0ed2a2a81df0f3fc5430aef4cb95ac2fd81"
+        }
+    ],
+    [
+        "/Users/vdagala/geolocation/force-app/main/default/layouts/Account-Account (Support) Layout.layout-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "/Users/vdagala/geolocation/force-app/main/default/layouts/Account-Account (Support) Layout.layout-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 9759,
+            "modifiedTime": 1526470749226,
+            "changeTime": 1526470749226,
+            "contentHash": "fc2897ad9dee01f06aead04c70d408b0119f8114"
+        }
+    ],
+    [
+        "/Users/vdagala/geolocation/force-app/main/default/layouts/Account-Account Layout.layout-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "/Users/vdagala/geolocation/force-app/main/default/layouts/Account-Account Layout.layout-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 9711,
+            "modifiedTime": 1526470749233,
+            "changeTime": 1526470749233,
+            "contentHash": "77696c2847a30377e3ed272881b1fb1d660513be"
+        }
+    ],
+    [
+        "/Users/vdagala/geolocation/force-app/main/default/layouts/Account-Account (Sales) Layout.layout-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "/Users/vdagala/geolocation/force-app/main/default/layouts/Account-Account (Sales) Layout.layout-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 9711,
+            "modifiedTime": 1526470749240,
+            "changeTime": 1526470749240,
+            "contentHash": "c4fd094641e544142fec043f97d5638afece4929"
+        }
+    ],
+    [
+        "/Users/vdagala/geolocation/force-app/main/default/layouts/Account-Account (Marketing) Layout.layout-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "/Users/vdagala/geolocation/force-app/main/default/layouts/Account-Account (Marketing) Layout.layout-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 9759,
+            "modifiedTime": 1526470749244,
+            "changeTime": 1526470749244,
+            "contentHash": "21bcd3dbff7ec5637c5b984a09141801eb58d13f"
+        }
+    ],
+    [
+        "/Users/vdagala/geolocation/force-app/main/default/permissionsets/Geolocation.permissionset-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "/Users/vdagala/geolocation/force-app/main/default/permissionsets/Geolocation.permissionset-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 705,
+            "modifiedTime": 1526470749246,
+            "changeTime": 1526470749246,
+            "contentHash": "1c9bb4b0c43e9153a2f953398d85fcef1f641f9a"
+        }
+    ],
+    [
+        "/Users/vdagala/geolocation/force-app/main/default/objects/Account/fields",
+        {
+            "state": "u",
+            "sourcePath": "/Users/vdagala/geolocation/force-app/main/default/objects/Account/fields",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 96,
+            "modifiedTime": 1526470749211,
+            "changeTime": 1526470749211,
+            "contentHash": "ce06810b1370ee18db3a024c8e13fe0221159f67"
+        }
+    ],
+    [
+        "/Users/vdagala/geolocation/force-app/main/default/objects/Account",
+        {
+            "state": "u",
+            "sourcePath": "/Users/vdagala/geolocation/force-app/main/default/objects/Account",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 96,
+            "modifiedTime": 1526470749210,
+            "changeTime": 1526470749210,
+            "contentHash": "70f132fe13e692866a539996a6b9a05b46076a07"
+        }
+    ],
+    [
+        "/Users/vdagala/geolocation/force-app/main/default/objects",
+        {
+            "state": "u",
+            "sourcePath": "/Users/vdagala/geolocation/force-app/main/default/objects",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 96,
+            "modifiedTime": 1526470749210,
+            "changeTime": 1526470749210,
+            "contentHash": "85dfa32c97d8618d1bea083609e2c8a29845abe5"
+        }
+    ],
+    [
+        "/Users/vdagala/geolocation/force-app/main/default/layouts",
+        {
+            "state": "u",
+            "sourcePath": "/Users/vdagala/geolocation/force-app/main/default/layouts",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 192,
+            "modifiedTime": 1526470749244,
+            "changeTime": 1526470749244,
+            "contentHash": "be43ec218fd4b2701663c648b5cbe93e57e32129"
+        }
+    ],
+    [
+        "/Users/vdagala/geolocation/force-app/main/default/permissionsets",
+        {
+            "state": "u",
+            "sourcePath": "/Users/vdagala/geolocation/force-app/main/default/permissionsets",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 96,
+            "modifiedTime": 1526470749246,
+            "changeTime": 1526470749246,
+            "contentHash": "3997b26d8a7f6692d5d741c4ac6d7985687d23ba"
+        }
+    ]
+]
